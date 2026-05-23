@@ -23,7 +23,7 @@ Behavioral defaults sourced from [context.md](context.md):
 
 ## Version control
 
-This workspace is a **private GitHub repo** at `github.com/<dan-github-username>/iq`.
+This workspace is a **private GitHub repo** at `github.com/wngch9876/iq`.
 
 **What's tracked:** `.md` files only — the structured learning artifacts.
 **What's NOT tracked:** PDFs in `references/`, `.docx`/`.txt` work notes, `.claude/` local config. See [.gitignore](.gitignore).
