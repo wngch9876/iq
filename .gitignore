@@ -1,0 +1,14 @@
+# Ignore everything by default
+*
+
+# Allow directories so git can descend
+!*/
+
+# Allow markdown files anywhere
+!*.md
+
+# Allow .gitignore itself (deny-all above would otherwise hide it)
+!.gitignore
+
+# Re-ignore Claude Code local config explicitly (belt + braces)
+.claude/
